@@ -1,10 +1,11 @@
-# Azure-Twitter-promotion-prediction
+# Improved Twitter Sentiment Analysis Using Naive Bayes and Custom Language Model: Microsoft Azure as Case Study
+
 Automates twitter promotion sentiment analysis of Microsoft Azure based on defined attributes. Calls Microsoft Cognitive Service LUIS API to get predicted intent. 
 
 
 Program functionalities
 - Produces random samples of tweets from original raw data and keeps track of tweets that have been fetched
-- Data cleansing: (link to code: Data Cleansing and Processing)
+- Data cleansing: 
 - Data Attribute Analysis based on final WEKA model attributes (in section VII of paper)
        1. Regex to read and understand the data better for keywords analysis too 
        2. All keywords stored in libraries to easily identify if such keywords exist 
