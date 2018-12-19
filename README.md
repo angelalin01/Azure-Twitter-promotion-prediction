@@ -1,7 +1,7 @@
 # Improved Twitter Sentiment Analysis Using Naive Bayes and Custom Language Model
 ## Microsoft Azure as a Case Study 
 
-Algorithm to analyze tweets from most influential developers discussing Microsoft Azure and predict customer value to Microsoft using natural language processing and machine learning. Calls Microsoft Cognitive Service LUIS API to get predicted intent. 
+Naive Bayes based algorithm to analyze tweets from most influential developers discussing Microsoft Azure and predict customer value to Microsoft using natural language processing and machine learning. Calls Microsoft Cognitive Service LUIS API to get predicted intent. 
 
 
 Program functionalities
